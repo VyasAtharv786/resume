@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+}
+
+.contact  {border: 1px solid #000000;
+    background-color:#F8F0E5;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-bottom: 20px;
+}
+        
+.section {
+    border: 1px solid black;
+    background-color:#EADBC8;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-bottom: 20px;
+}
+
+.column {
+    border: 1px solid black;
+  background-color: #DAC0A3;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  margin-bottom: 20px;
+  
+}
+
+.box {
+    border: 1px solid black;
+  background-color:#2d77e6;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  margin-bottom: 20px;
+}
